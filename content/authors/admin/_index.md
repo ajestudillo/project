@@ -46,15 +46,15 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AJEstudillo
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=S1dGOl0AAAAJ&hl=en
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Alejandro-Estudillo
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/CV.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
@@ -73,4 +73,4 @@ My research focuses on understanding how our visual system provide us with infor
 
 To provide this understanding, I use techniques, such as eye-tracking (which allows us to track where participants are looking), EEG-ERP (to measure participants’ brain activity while viewing certain stimuli, such as faces and other objects), and classical behavioral (e.g., old/new recognition memory paradigm) and psychophysical paradigms.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
