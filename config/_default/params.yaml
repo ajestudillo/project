@@ -27,6 +27,7 @@ address:
   region:
   postcode: BH125BB
   country: United Kingdown
+  country_code: GB
 # Site header
 
 main_menu:
