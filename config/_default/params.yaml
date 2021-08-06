@@ -21,7 +21,12 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: aestudillo@bournemouth.ac.uk
-
+address:
+  street: Bournemouth University, Talbot Campus, Poole House
+  city: Poole
+  region:
+  postcode: BH125BB
+  country: United Kingdown
 # Site header
 
 main_menu:
