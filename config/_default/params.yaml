@@ -32,7 +32,7 @@ address:
 
 main_menu:
   enable: true
-  align: l
+  align: r
   show_logo: true
   show_language: false
   show_day_night: true
@@ -130,4 +130,4 @@ cms:
   local_backend: false
 icon:
   pack:
-    ai: false
+    ai: true
