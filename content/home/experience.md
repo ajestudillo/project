@@ -54,7 +54,7 @@ experience:
     company: School of Psychology, University of Nottingham Malaysia
     company_url: ''
     company_logo: not
-    location: UK
+    location: Malaysia
     date_start: '2016-08-01'
     date_end: '2020-02-01'
     description: |2-
