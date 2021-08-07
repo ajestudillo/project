@@ -22,28 +22,72 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Senior Lecturer in Psychology
+    company: Department of Psychology, Bournemouth University
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: bu
+    location: UK
+    date_start: '2021-07-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Unit leader of Experimental Methods and Statistical Analysis
+        * Research student supervision
+        * Conducting Research in the field of Face recognition
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Lecturer in Psychology
+    company: Department of Psychology, Bournemouth University
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: bu
+    location: UK
+    date_start: '2020-03-01'
+    date_end: '2020-06-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Unit leader of Experimental Methods and Statistical Analysis
+        * Research student supervision
+        * Conducting Research in the field of Face recognition
+
+  - title: Assistant Professor in Psychology
+    company: School of Psychology, University of Nottingham Malaysia
+    company_url: ''
+    company_logo: not
+    location: UK
+    date_start: '2016-08-01'
+    date_end: '2020-02-01'
+    description: |2-
+        Responsibilities include:
+        * Unit leader of Neuropschology 1 and 2
+        * Research student supervision
+        * Final Year Research Project coordinator
+        * Conducting Research in the field of Face recognition
+
+  - title: Assistant Lecturer in Psychology
+    company: Department of Psychology, Birkbeck University of London
+    company_url: ''
+    company_logo: bi
+    location: UK
+    date_start: '2015-09-01'
+    date_end: '2016-04-01'
+    description: |2-
+        Responsibilities include:
+        * Teaching undergraduate and postgraduate Research Methods
+        * Research student supervision
+
+  - title: Teaching Assistant and PhD student
+    company: Department of Psychology, University of Kent
+    company_url: ''
+    company_logo: uk
+    location: UK
+    date_start: '2012-09-01'
+    date_end: '2015-08-01'
+    description: |2-
+        Responsibilities include:
+        * Teaching undergraduate Research Methods
+        * Conducting research in the field of Self-face recognition
+
 
 design:
   columns: '2'
