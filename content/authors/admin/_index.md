@@ -14,7 +14,7 @@ organizations:
   url: https://www.bournemouth.ac.uk/about/our-faculties/faculty-science-technology/our-departments/department-psychology
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include face and object recognition, numerical cognition, neuropsychology,
+bio: My research interests include face and object recognition, numerical cognition, neuropsychology, etc.
 
 # Interests to show in About widget
 interests:
