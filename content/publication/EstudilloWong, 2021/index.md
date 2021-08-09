@@ -5,8 +5,6 @@ abstract: The 20-Item Prosopagnosia Items (PI-20) was recently introduced as a s
 # - Equal contribution
 authors:
 - admin
-- Hoo Keat Wong
-
 date: "2021-03-01T00:00:00Z"
 doi: ""
 featured: false
@@ -15,20 +13,20 @@ featured: false
 #   focal_point: ""
 #   preview_only: false
 projects: []
-publication: '*PeerJ, 9*(10629)'
+publication: '*Journal of Criminal Psychology, 11*(2)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2021-11-01T00:00:00Z"
+publishDate: "2021-21-07T00:00:00Z"
 # slides: example
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: Associations between self-reported and objective face recognition abilities are only evident in above- and below-average recognisers
+title: Self-reported face recognition abilities for own and other-race faces
 # url_code: ""
 # url_dataset: ""
-url_pdf: https://www.researchgate.net/publication/348396419_Associations_between_self-reported_and_objective_face_recognition_abilities_are_only_evident_in_above-_and_below-average_recognisers
+url_pdf: https://www.researchgate.net/publication/350669209_Self-reported_face_recognition_abilities_for_own_and_other-race_faces
 # url_poster: ""
 # url_project: ""
 # url_slides: ""
