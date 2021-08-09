@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alejandro J. Estudllo
+title: Alejandro J. Estudillo
 
 # Is this the primary user of the site?
 superuser: true
