@@ -15,7 +15,7 @@ featured: false
 #   focal_point: ""
 #   preview_only: false
 projects: []
-publication: '*PeerJ, 9*(e10629)'
+publication: '*PeerJ, 9*(10629)'
 publication_short: ""
 publication_types:
 - "2"
