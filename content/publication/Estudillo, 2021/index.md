@@ -5,7 +5,7 @@ abstract: The other-race effect shows that people are better recognizing faces f
 # - Equal contribution
 authors:
 - admin
-date: "2021-03-01T00:00:00Z"
+date: "2021-07-01T00:00:00Z"
 doi: ""
 featured: false
 # image:
