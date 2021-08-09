@@ -17,7 +17,7 @@ publication: '*Journal of Criminal Psychology, 11*(2)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2021-21-07T00:00:00Z"
+publishDate: "2021-07-01T00:00:00Z"
 # slides: example
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

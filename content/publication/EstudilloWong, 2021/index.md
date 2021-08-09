@@ -5,7 +5,7 @@ abstract: The 20-Item Prosopagnosia Items (PI-20) was recently introduced as a s
 # - Equal contribution
 authors:
 - admin
-date: "2021-07-01T00:00:00Z"
+date: "2021-01-01T00:00:00Z"
 doi: ""
 featured: false
 # image:
@@ -17,7 +17,7 @@ publication: '*PeerJ, 9*(e10629)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2021-07-01T00:00:00Z"
+publishDate: "2021-01-01T00:00:00Z"
 # slides: example
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
