@@ -23,7 +23,7 @@ publishDate: "2021-21-07T00:00:00Z"
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: Self-reported face recognition abilities for own and other-race faces
+title: Associations between self-reported and objective face recognition abilities are only evident in above- and below-average recognisers
 # url_code: ""
 # url_dataset: ""
 url_pdf: https://www.researchgate.net/publication/350669209_Self-reported_face_recognition_abilities_for_own_and_other-race_faces
