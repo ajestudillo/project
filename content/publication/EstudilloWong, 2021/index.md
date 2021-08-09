@@ -5,7 +5,7 @@ abstract: The 20-Item Prosopagnosia Items (PI-20) was recently introduced as a s
 # - Equal contribution
 authors:
 - admin
-date: "2021-03-01T00:00:00Z"
+date: "2021-07-01T00:00:00Z"
 doi: ""
 featured: false
 # image:
