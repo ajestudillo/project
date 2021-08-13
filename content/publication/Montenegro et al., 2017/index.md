@@ -8,7 +8,7 @@ authors:
 - Juan Antonio Alvarez-Montesinos
 - admin
 - Javier Garcia-Orza
-date: "2018-12-01T00:00:00Z"
+date: "2017-12-01T00:00:00Z"
 doi: ""
 featured: false
 # image:
@@ -20,7 +20,7 @@ publication: '*Revista de Neurología, 65*(12)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2021-01-01T00:00:00Z"
+publishDate: "2017-12-01T00:00:00Z"
 # slides: example
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
