@@ -1,11 +1,11 @@
 ---
-abstract: The 20-Item Prosopagnosia Items (PI-20) was recently introduced as a self-report measure of face recognition abilities and as an instrument to help the diagnosis of prosopagnosia. In general, studies using this questionnaire have shown that observers have moderate to strong insights into their face recognition abilities. However, it remains unknown whether these insights are equivalent for the whole range of face recognition abilities. The present study investigates this issue using the Mandarin version of the PI-20 and the Cambridge Face Memory Test Chinese (CFMT-Chinese). Our results showed a moderate negative association between the PI-20 and the CFMT-Chinese. However, this association was driven by people with low and high face recognition ability, but absent in people within the typical range of face recognition performance. The implications of these results for the study of individual differences and the diagnosis of prosopagnosia are discussed.
+abstract: Seeing a face being touched in spatial and temporal synchrony with the own face produces a bias in self-recognition, whereby the other face becomes more likely to be perceived as the self. The present study employed event-related potentials to explore whether this enfacement effect reflects initial face encoding, enhanced distinctiveness of the enfaced face, modified self-identity representations, or even later processing stages that are associated with the emotional processing of faces. Participants were stroked in synchrony or asynchrony with an unfamiliar face they observed on a monitor in front of them, in a situation approximating a mirror image. Subsequently, event-related potentials were recorded during the presentation of (a) a previously synchronously stimulated face, (b) an asynchronously stimulated face, (c) observers' own face, (d) filler faces, and (e) a to-be-detected target face, which required a response. Observers reported a consistent enfacement illusion after synchronous stimulation. Importantly, the synchronously stimulated face elicited more prominent N170 and P200 responses than the asynchronously stimulated face. By contrast, similar N250 and P300 responses were observed in these conditions. These results suggest that enfacement modulates early neural correlates of face encoding and facial prototypicality, rather than identity self-representations and associated emotional processes.
 # author_notes:
 # - Equal contribution
 # - Equal contribution
 authors:
 - admin
-date: "2021-01-01T00:00:00Z"
+date: "2018-08-01T00:00:00Z"
 doi: ""
 featured: false
 # image:
@@ -13,20 +13,20 @@ featured: false
 #   focal_point: ""
 #   preview_only: false
 projects: []
-publication: '*PeerJ, 9*(e10629)'
+publication: '*European Journal of Neuroscience, 48*(5)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2021-01-01T00:00:00Z"
+publishDate: "2018-08-01T00:00:00Z"
 # slides: example
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: Associations between self-reported and objective face recognition abilities are only evident in above- and below-average recognisers
+title: Multisensory stimulation modulates perceptual and post perceptual face representations: Evidence from event-related potentials
 # url_code: ""
 # url_dataset: ""
-url_pdf: https://www.researchgate.net/publication/350669209_Self-reported_face_recognition_abilities_for_own_and_other-race_faces
+url_pdf: https://www.researchgate.net/publication/327025021_Multisensory_Stimulation_Modulates_Perceptual_and_Post-perceptual_Face_Representations_Evidence_from_Event-Related_Potentials
 # url_poster: ""
 # url_project: ""
 # url_slides: ""

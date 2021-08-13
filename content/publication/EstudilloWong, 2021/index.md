@@ -5,6 +5,7 @@ abstract: The 20-Item Prosopagnosia Items (PI-20) was recently introduced as a s
 # - Equal contribution
 authors:
 - admin
+- Hoo Keat Wong
 date: "2021-01-01T00:00:00Z"
 doi: ""
 featured: false
