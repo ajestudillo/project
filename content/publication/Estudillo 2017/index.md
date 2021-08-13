@@ -5,7 +5,7 @@ abstract: The own face is our most distinctive physical feature and the paramoun
 # - Equal contribution
 authors:
 - admin
-date: "2018-04-01T00:00:00Z"
+date: "2017-04-01T00:00:00Z"
 doi: ""
 featured: false
 # image:
@@ -17,13 +17,13 @@ publication: '*Frontiers in Psychology, 8*(608)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2018-04-01T00:00:00Z"
+publishDate: "2017-04-01T00:00:00Z"
 # slides: example
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: Commentary: My face or yours? Event-related potential correlates of self-face processing
+title: Commentary My face or yours? Event-related potential correlates of self-face processing
 # url_code: ""
 # url_dataset: ""
 url_pdf: https://www.researchgate.net/publication/316273012_GENERAL_COMMENTARY_Commentary_My_face_or_yours_Event-related_potential_correlates_of_self-face_processing_A_commentary_on_My_face_or_yours_Event-related_potential_correlates_of_self-face_processing
