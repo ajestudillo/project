@@ -32,9 +32,11 @@ experience:
     description: |2-
         Responsibilities include:
         
+        * Leader of the Face Processing Research Group 
+        * Research Output Champion
         * Unit leader of Experimental Methods and Statistical Analysis
-        * Research student supervision
-        * Conducting Research in the field of Face recognition
+        
+        
         
   - title: Lecturer in Psychology
     company: Department of Psychology, Bournemouth University
