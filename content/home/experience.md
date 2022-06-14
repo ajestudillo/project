@@ -44,7 +44,7 @@ experience:
     company_logo: bu
     location: UK
     date_start: '2020-03-01'
-    date_end: '2020-06-01'
+    date_end: '2021-06-01'
     description: |2-
         Responsibilities include:
         
