@@ -52,7 +52,7 @@ experience:
         * Research student supervision
         * Conducting Research in the field of Face recognition
 
-  - title: Professor in Psychology
+  - title: Assistant Professor in Psychology
     company: School of Psychology, University of Nottingham Malaysia
     company_url: ''
     company_logo: not
