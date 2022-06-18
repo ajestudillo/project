@@ -6,7 +6,7 @@ abstract: Although the positive effects of congruency between stimuli are well r
 authors:
 - admin
 - Hoo Keat Wong
-date: "2016-04-01T00:00:00Z"
+date: "2022-06-01T00:00:00Z"
 doi: ""
 featured: false
 # image:
@@ -18,7 +18,7 @@ publication: '*Cognitive Research: Principles and implications, 7*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2016-04-01T00:00:00Z"
+publishDate: "2022-06-01T00:00:00Z"
 # slides: example
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -27,7 +27,7 @@ tags:
 title: "Two face masks are better than one: congruency effects in face matching"
 # url_code: ""
 # url_dataset: ""
-url_pdf: https://www.researchgate.net/publication/301695684_Multisensory_stimulation_with_other-race_faces_and_the_reduction_of_racial_prejudice
+url_pdf: https://www.researchgate.net/publication/361176510_Two_face_masks_are_better_than_one_congruency_effects_in_face_matching
 # url_poster: ""
 # url_project: ""
 # url_slides: ""
