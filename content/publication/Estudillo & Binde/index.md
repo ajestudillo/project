@@ -14,7 +14,7 @@ featured: false
 #   focal_point: ""
 #   preview_only: false
 projects: []
-publication: '*Cognitive Research: Principles and implications, 7(49)*'
+publication: '*Cognitive Research: Principles and implications, 42*'
 publication_short: ""
 publication_types:
 - "2"
@@ -24,7 +24,7 @@ publishDate: "2016-04-01T00:00:00Z"
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: "Two face masks are better than one: congruency effects in face matching""
+title: Two face masks
 # url_code: ""
 # url_dataset: ""
 url_pdf: https://www.researchgate.net/publication/301695684_Multisensory_stimulation_with_other-race_faces_and_the_reduction_of_racial_prejudice
