@@ -33,7 +33,7 @@ experience:
         Responsibilities include:
         
         * Leader of the Face Processing Research Group 
-        * Research Output Champion
+        * Research Output Champion434343434343434343
         * Unit leader of Experimental Methods and Statistical Analysis
         
         
