@@ -1,11 +1,11 @@
 ---
-abstract: This study investigated whether multisensory stimulation with other-race faces can reduce racial prejudice. In three experiments, the faces of Caucasian observers were stroked with a cotton bud while they watched a black face being stroked in synchrony on a computer screen. This was compared with a neutral condition, in which no tactile stimulation was administered (Experiment 1 and 2), and with a condition in which observers' faces were stroked in asynchrony with the onscreen face (Experiment 3). In all experiments, observers experienced an enfacement illusion after synchronous stimulation, whereby they reported to embody the other-race face. However, this effect did not produce concurrent changes in implicit or explicit racial prejudice. This outcome contrasts with other procedures for the reduction of self-other differences that decrease racial prejudice, such as behavioural mimicry and intergroup contact. We speculate that enfacement is less effective for such prejudice reduction because it does not encourage perspective-taking.
+abstract: Although the positive effects of congruency between stimuli are well replicated in face memory paradigms, mixed findings have been found in face matching. Due to the current COVID-19 pandemic, face masks are now very common during daily life outdoor activities. Thus, the present study aims to further explore congruency effects in matching faces partially occluded by surgical masks. Observers performed a face matching task consisting of pairs of faces presented in full view (i.e., full-view condition), pairs of faces in which only one of the faces had a mask (i.e., one-mask condition), and pairs of faces in which both faces had a mask (i.e., two-mask condition). Although face masks disrupted performance in identity match and identity mismatch trials, in match trials, we found better performance in the two-mask condition compared to the one-mask condition. This finding highlights the importance of congruency between stimuli on face matching when telling faces together.
 # author_notes:
 # - Equal contribution
 # - Equal contribution
 authors:
 - admin
-- Markus Bindemann
+- Hoo Keat Wong
 date: "2016-04-01T00:00:00Z"
 doi: ""
 featured: false
@@ -14,7 +14,7 @@ featured: false
 #   focal_point: ""
 #   preview_only: false
 projects: []
-publication: '*Cognitive Research: Principles and implications, 42*'
+publication: '*Cognitive Research: Principles and implications, 7(49)*'
 publication_short: ""
 publication_types:
 - "2"
@@ -24,7 +24,7 @@ publishDate: "2016-04-01T00:00:00Z"
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: Multisensory
+title: "Two face masks are better than one: congruency effects in face matching""
 # url_code: ""
 # url_dataset: ""
 url_pdf: https://www.researchgate.net/publication/301695684_Multisensory_stimulation_with_other-race_faces_and_the_reduction_of_racial_prejudice
