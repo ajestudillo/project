@@ -6,7 +6,7 @@ abstract: In the forensic face matching task, observers are presented with two u
 authors:
 - admin
 - Peter Hills
-- Wong Hoo Keat 
+- Hoo Keat Wong
 doi: ""
 featured: false
 # image:
