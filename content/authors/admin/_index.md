@@ -67,7 +67,7 @@ social:
 highlight_name: false
 ---
 
-I received my BSc Psychology (Hons) degree from the University of Málaga (Spain) in 2008. I then continued my postgraduate studies at the University of Granada (MSc in Cognitive and Behavioural Neuroscience) and at the University of Edinburgh (MSc in Human Cognitive Neuropsychology). Following this, I commenced my PhD at the University of Kent, and was awarded with a PhD in Human Cognitive Psychology and Neuropsychology in 2016. Subsequently, I became an Assistant Professor at the University of Nottingham Malaysia, before I moved to Bournemouth in 2020.
+I received my BSc Psychology (Hons) degree from the University of Málaga (Spain) in 2008. I then continued my postgraduate studies at the University of Granada (MSc in Cognitive and Behavioural Neuroscience) and at the University of Edinburgh (MSc in Human Cognitive Neuropsychology). Following this, I commenced my PhD at the University of Kent, and was awarded with a PhD in Human Cognitive Psychology and Neuropsychology in 2016. Subsequently, I became an Assistant Professor at the University of Nottingham Malaysia, before I moved to Bournemouth University in 2020.
 
 My research focuses on understanding how our visual system provide us with information about the world that we can use to recognize and interact with objects, environments and people. I am interested in visual perception from the most basic level (e.g. how we discriminate between different shapes) to the most complex (e.g., face and object recognition). I am also interested in the cognitive mechanisms used to solve different mathematical operations (e.g., additions and subtractions).
 
