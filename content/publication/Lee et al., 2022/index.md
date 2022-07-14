@@ -5,8 +5,8 @@ abstract: It is widely accepted that holistic processing is important for face p
 # - Equal contribution
 authors:
 - Jasmine K.W. Lee
-- admin
 - Steve M. J. Janssen
+- admin
 date: "2022-07-01T00:00:00Z"
 doi: ""
 featured: false
