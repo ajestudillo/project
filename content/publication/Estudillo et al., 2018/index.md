@@ -5,6 +5,9 @@ abstract: Seeing a face being touched in spatial and temporal synchrony with the
 # - Equal contribution
 authors:
 - admin
+- Juergen Kaufmann
+- Markus Bindemann
+- Stefan R. Schweinberger
 date: "2018-08-01T00:00:00Z"
 doi: ""
 featured: false
