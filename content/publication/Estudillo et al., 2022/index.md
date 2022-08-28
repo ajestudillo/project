@@ -15,7 +15,7 @@ featured: false
 #   focal_point: ""
 #   preview_only: false
 projects: []
-publication: '*Journal of Cognitive Psychology, 34*'
+publication: '*Journal of Cognitive Psychology, 34*(6)'
 publication_short: ""
 publication_types:
 - "2"
