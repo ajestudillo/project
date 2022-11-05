@@ -27,7 +27,7 @@ tags:
 title: "The Effect of Face Masks on Forensic Face Matching: An Individual Differences Study"
 # url_code: ""
 # url_dataset: ""
-url_pdf: https://www.researchgate.net/publication/354394240_The_Effect_of_Face_Masks_on_Forensic_Face_Matching_An_Individual_Differences_Study
+url_pdf: https://www.researchgate.net/publication/362961800_A_more_featural_based_processing_for_the_self-face_An_eye-tracking_study
 # url_poster: ""
 # url_project: ""
 # url_slides: ""
