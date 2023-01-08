@@ -8,7 +8,7 @@ authors:
 - Ye ji Lee
 - Juan A. Alvarez-Montesinos
 - Javier Garcia-Orza
-date: "2023-01-01T00:00:00Z"
+date: "2023-02-01T00:00:00Z"
 doi: ""
 featured: false
 # image:
@@ -16,11 +16,11 @@ featured: false
 #   focal_point: ""
 #   preview_only: false
 projects: []
-publication: 'Brain and Cognition, 165'
+publication: '*Brain and Cognition, 165*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2023-01-01T00:00:00Z"
+publishDate: "2023-02-01T00:00:00Z"
 # slides: example
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
