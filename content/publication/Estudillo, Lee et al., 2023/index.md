@@ -26,7 +26,7 @@ publishDate: "2023-02-01T00:00:00Z"
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: High-frequency transcranial random noise stimulation enhances unfamiliar face matching of high resolution and pixelated faces
+title: "High-frequency transcranial random noise stimulation enhances unfamiliar face matching of high resolution and pixelated faces"
 # url_code: ""
 # url_dataset: ""
 url_pdf: https://www.researchgate.net/publication/365924834_High-frequency_transcranial_random_noise_stimulation_enhances_unfamiliar_face_matching_of_high_resolution_and_pixelated_faces
