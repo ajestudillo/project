@@ -24,7 +24,7 @@ publishDate: "2022-10-01T00:00:00Z"
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: "Face masks affect emotion categorisation, age estimation, recognition, and gender classification from faces"
+title: Face masks affect emotion categorisation, age estimation, recognition, and gender classification from faces
 # url_code: ""
 # url_dataset: ""
 url_pdf: https://www.researchgate.net/publication/364268754_Face_masks_affect_emotion_categorisation_age_estimation_recognition_and_gender_classification_from_faces
