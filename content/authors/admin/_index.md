@@ -73,4 +73,4 @@ My research focuses on understanding how our visual system provide us with infor
 
 To provide this understanding, I use techniques, such as eye-tracking (which allows us to track where participants are looking), EEG-ERP (to measure participants’ brain activity while viewing certain stimuli, such as faces and other objects), and classical behavioral (e.g., old/new recognition memory paradigm) and psychophysical paradigms.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_ajestudillo.pdf" "newtab" >}}CV{{< /staticref >}}.
