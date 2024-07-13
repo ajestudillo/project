@@ -6,7 +6,7 @@ title: Alejandro J. Estudillo
 superuser: true
 
 # Role/position/tagline
-role: Senior Lecturer in Psychology
+role: Principal Academic in Psychology
 
 # Organizations/Affiliations to show in About widget
 organizations:
