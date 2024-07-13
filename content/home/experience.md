@@ -22,6 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Principal Academic in Psychology
+    company: Department of Psychology, Bournemouth University
+    company_url: ''
+    company_logo: bu
+    location: UK
+    date_start: '2023-09-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Head of Postgraduate Research Students 
+        * Deputy Chair of Research Output
+        * Unit leader of Quantitative Research Methods
+        
+        
   - title: Senior Lecturer in Psychology
     company: Department of Psychology, Bournemouth University
     company_url: ''
