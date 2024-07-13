@@ -1,7 +1,7 @@
 # SITE SETUP
 # Guide: https://wowchemy.com/docs/getting-started/
 # Documentation: https://wowchemy.com/docs/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+# This file is contactatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
 
@@ -41,7 +41,7 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
+date_contactat: 'Jan 2, 2006'
 time_format: '3:04 PM'
 address_format: en-us
 
