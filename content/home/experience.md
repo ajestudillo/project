@@ -43,7 +43,7 @@ experience:
     company_logo: bu
     location: UK
     date_start: '2021-07-01'
-    date_end: '2023-09-01'
+    date_end: '2023-08-31'
     description: |2-
         Responsibilities include:
         
