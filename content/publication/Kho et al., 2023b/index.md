@@ -4,10 +4,11 @@ abstract: "The functional role of the occipital face area (OFA) and the fusiform
 # - Equal contribution
 # - Equal contribution
 authors:
-- Bryan Leong
+- Siew Kei Kho
+- David R Keeble
+- Hoo Keat Wong
 - admin
-- Ahamed Miflah Hussain Ismail
-date: "2023-01-01T00:00:00Z"
+date: "2023-08-01T00:00:00Z"
 doi: ""
 featured: false
 # image:

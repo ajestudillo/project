@@ -4,10 +4,11 @@ abstract: "Successful face recognition is important for social interactions and 
 # - Equal contribution
 # - Equal contribution
 authors:
-- Bryan Leong
+- Siew Kei Kho
+- David R Keeble
+- Hoo Keat Wong
 - admin
-- Ahamed Miflah Hussain Ismail
-date: "2023-01-01T00:00:00Z"
+date: "2023-10-01T00:00:00Z"
 doi: ""
 featured: false
 # image:
