@@ -3,9 +3,9 @@
 
 widget: accomplishments
 headless: true  
-
+count: 2
 # Put Your Section Options Here (title, background, etc.) ...
-title: My Experience
+title: Teaching Portfolio
 subtitle:
 weight: 40 
 # The position of section on page
