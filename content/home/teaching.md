@@ -1,10 +1,13 @@
+# This file represents a page section.
+
 widget: accomplishments
-headless: true  # This file represents a page section.
+headless: true  
 
 # Put Your Section Options Here (title, background, etc.) ...
 title: My Experience
 subtitle:
-weight: 40 # The position of section on page
+weight: 40 
+# The position of section on page
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
