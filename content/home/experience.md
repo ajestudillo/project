@@ -79,7 +79,7 @@ experience:
         * Unit leader of Neuropschology 1 and 2
         * Research student supervision
         * Final Year Research Project coordinator
-        * Conducting Research in the field of Face recognition
+       
 
   - title: Assistant Lecturer in Psychology
     company: Department of Psychology, Birkbeck University of London
