@@ -1,6 +1,6 @@
 ---
 # This file represents a page section.
-
+active: false
 widget: accomplishments
 headless: true  
 count: 2
