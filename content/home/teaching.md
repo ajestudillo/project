@@ -74,6 +74,6 @@ item:
     certificate_url: 
     date_start: '2017-09-01'
     date_end: '2019-12-01'
-    description: 'In this module, I covered the basics of several neuroscientific techniques, including Magnetic Resonance Imaging (MRI), Electroencephalography (EEG), and magnetic and electrical stimulation.'    
+    description: 'In this undergraduate module, I provided a comprehensive understanding of the basics of several neuroscientific techniques, including Magnetic Resonance Imaging (MRI), Electroencephalography (EEG), and both magnetic and electrical stimulation.'    
 
 ---
