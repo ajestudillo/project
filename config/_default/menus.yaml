@@ -13,7 +13,7 @@ main:
   - name: Publications
     url: '#publications'
     weight: 30
-  - name: Teaching Portafolio
+  - name: Teaching Portfolio
     url: '#teaching'
     weight: 40
   - name: Contact
