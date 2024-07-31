@@ -14,7 +14,7 @@ summary: How do we learn that one particular face is our own face?
 tags:
 - Self and Identity
 - Face Processing
-title: Own face learning
+title: Own Face Processing
 url_code: ""
 url_pdf: ""
 url_slides: ""
