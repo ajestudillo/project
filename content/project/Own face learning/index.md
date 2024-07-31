@@ -1,18 +1,19 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: ""
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: "Image from Estudillo and Bindemann, 2016; QJEP"
   focal_point: Smart
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-slides: example
-summary: An example of using the in-built project page.
+#links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+#slides: example
+summary: How do we learn that one particular face is our own face?
 tags:
-- Deep Learning
+- Self and Identity
+- Face Processing
 title: Internal Project
 url_code: ""
 url_pdf: ""
