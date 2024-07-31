@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Projects
-subtitle: ''
+title: Research Projects
+subtitle: Summary of current Research Projects
 
 content:
   # Page type to display. E.g. project.
@@ -27,10 +27,16 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Face Processing
+    tag: Face Processing
+  - name: Self and Identity 
+    tag: Self and Identity
+  - name: Brain Stimulation 
+    tag: Brain Stimulation
+  - name: Mathematical Cognition
+    tag: Mathematical Cognition
+  - name: Miscelaneous 
+    tag: Miscelaneous
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
