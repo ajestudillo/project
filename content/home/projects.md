@@ -33,6 +33,8 @@ content:
     tag: Self and Identity
   - name: Mathematical Cognition
     tag: Mathematical Cognition
+  - name: Neuropsychology
+    tag: Neuropsychology
   - name: Miscellaneous 
     tag: Miscellaneous
 
