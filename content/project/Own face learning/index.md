@@ -26,4 +26,4 @@ url_video: ""
 Representative publications:
 
 [Alejandro J. Estudillo, Markus Bindemann (2016). Multisensory stimulation with other-race faces and the reduction of racial prejudice. Consciousness and Cognition, 42.](https://alejandro-estudillo.netlify.app/publication/estudillo-bindemann-2016/)
-""
+"
