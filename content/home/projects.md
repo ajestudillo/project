@@ -33,8 +33,8 @@ content:
     tag: Self and Identity
   - name: Mathematical Cognition
     tag: Mathematical Cognition
-  - name: Miscelaneous 
-    tag: Miscelaneous
+  - name: Miscellaneous 
+    tag: Miscellaneous
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

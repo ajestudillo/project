@@ -6,7 +6,7 @@ headless: true
 # Put Your Section Options Here (title, background, etc.) ...
 title: Teaching Portfolio
 subtitle: Summary of teaching
-weight: 40 
+weight: 50 
 # The position of section on page
 
 # Date format
