@@ -31,8 +31,6 @@ content:
     tag: Face Processing
   - name: Self and Identity 
     tag: Self and Identity
-  - name: Brain Stimulation 
-    tag: Brain Stimulation
   - name: Mathematical Cognition
     tag: Mathematical Cognition
   - name: Miscelaneous 
