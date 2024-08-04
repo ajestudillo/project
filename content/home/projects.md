@@ -24,19 +24,19 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-  - name: All
-    tag: '*'
-  - name: Face Processing
-    tag: Face Processing
-  - name: Self and Identity 
-    tag: Self and Identity
-  - name: Mathematical Cognition
-    tag: Mathematical Cognition
-  - name: Neuropsychology
-    tag: Neuropsychology
-  - name: Miscellaneous 
-    tag: Miscellaneous
+# filter_button:
+#  - name: All
+#    tag: '*'
+#  - name: Face Processing
+#    tag: Face Processing
+#  - name: Self and Identity 
+#    tag: Self and Identity
+#  - name: Mathematical Cognition
+#    tag: Mathematical Cognition
+#  - name: Neuropsychology
+#    tag: Neuropsychology
+#  - name: Miscellaneous 
+#    tag: Miscellaneous
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
