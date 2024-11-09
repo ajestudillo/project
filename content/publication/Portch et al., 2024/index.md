@@ -27,7 +27,7 @@ publishDate: "2024-09-01T00:00:00Z"
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: "*"Super-recognizers” and the Legal System*"
+title: "Super-recognizers and the Legal System"
 # url_code: ""
 # url_dataset: ""
 url_pdf: ""
