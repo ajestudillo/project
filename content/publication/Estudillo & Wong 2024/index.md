@@ -24,10 +24,10 @@ publishDate: "2024-01-01T00:00:00Z"
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: "https://www.researchgate.net/publication/377091089_The_role_of_inversion_and_face_masks_on_simultaneous_and_delayed_face_matching_tasks"
+title: "The role of inversion and face masks in simultaneous and delayed face matching tasks"
 # url_code: ""
 # url_dataset: ""
-url_pdf: https://www.researchgate.net/publication/361176510_Two_face_masks_are_better_than_one_congruency_effects_in_face_matching
+url_pdf: https://www.researchgate.net/publication/377091089_The_role_of_inversion_and_face_masks_on_simultaneous_and_delayed_face_matching_tasks
 # url_poster: ""
 # url_project: ""
 # url_slides: ""
