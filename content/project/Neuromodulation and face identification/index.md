@@ -10,7 +10,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 #slides: example
-#summary: Transcranial Electrical Stimulation 
+summary: 
 tags:
 - Neuromodulation
 - Face Processing
