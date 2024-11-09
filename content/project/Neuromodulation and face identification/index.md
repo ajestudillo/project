@@ -2,7 +2,7 @@
 date: ""
 external_link: ""
 image:
-  caption: "Image from Estudillo and Bindemann, 2017; QJEP"
+  caption: "Image from Estudillo et al., 2023; B&C"
   focal_point: Smart
 #links:
 #- icon: twitter
@@ -10,11 +10,11 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 #slides: example
-summary: How do we learn that one particular face is our own face?
+#summary: Transcranial Electrical Stimulation 
 tags:
-- Self and Identity
+- Neuromodulation
 - Face Processing
-title: Own Face Learning
+title: Neuromodulation and Face Processing
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -25,10 +25,9 @@ One's own face serves as a visual signpost of identity. However, our face is not
 
 Representative publications:
 
-[Alejandro J. Estudillo, Markus Bindemann (2016). Multisensory stimulation with other-race faces and the reduction of racial prejudice. Consciousness and Cognition, 42.](https://alejandro-estudillo.netlify.app/publication/estudillo-bindemann-2016/)
+[Alejandro J. Estudillo, Ye ji Lee, Juan A. Alvarez-Montesinos, Javier Garcia-orza (2023). High-frequency transcranial random noise stimulation enhances unfamiliar face matching of high resolution and pixelated faces. Brain and Cognition, 165.](https://alejandro-estudillo.netlify.app/publication/estudillo-lee-et-al.-2023/)
 
-[Alejandro J. Estudillo, Markus Bindemann (2017). Can Gaze-Contingent Mirror-Feedback from Unfamiliar Faces alter Self-Recognition?. Quarterly Journal of Experimental Psychology, 70(5).](https://alejandro-estudillo.netlify.app/publication/estudillo-bindemann-2017b/)
+[Siew Kei Kho, David R Keeble, Hoo Keat Wong, Alejandro J. Estudillo (2023). Investigating the role of the fusiform face area and occipital face area using multifocal transcranial direct current stimulation. Neuropsychologia, 189.](https://alejandro-estudillo.netlify.app/publication/kho-et-al.-2023b/)
 
-[Alejandro J. Estudillo, Markus Bindemann (2017). A multi-sensory system for self-face learning. In M. Bindemann & A. M Megreya. Face processing: Systems, disorders and cultural differences.](https://alejandro-estudillo.netlify.app/publication/estudillo-bindemann-2017a/)
+[Siew Kei Kho, David R Keeble, Hoo Keat Wong, Alejandro J. Estudillo (2023). Null effect of anodal and cathodal transcranial direct current stimulation (tDCS) on own- and other-race face recognition.](https://alejandro-estudillo.netlify.app/publication/kho-et-al.-2023/)
 
-[Alejandro J. Estudillo, Juergen Kaufmann, Markus Bindemann, Stefan R. Schweinberger (2018). Multisensory stimulation modulates perceptual and post perceptual face representations. Evidence from event-related potentials. European Journal of Neuroscience, 48(5).](https://alejandro-estudillo.netlify.app/publication/estudillo-et-al.-2018/)
