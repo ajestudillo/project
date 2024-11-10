@@ -21,7 +21,8 @@ url_slides: ""
 url_video: ""
 ---
 
-The question of what constitutes the self has captivated Eastern and Western philosophers for centuries. Certain information, such as one's own face or name, play a crucial role in representing our identity and self. However, the precise cognitive and neural mechanisms through which self representations are created, kept and updated are largely unclear. In this project, we explore these questions using a combination of behavioural and neuroscientific techniques.
+The question of what constitutes the self has captivated Eastern and Western philosophers for centuries. Certain information, such as one's own face or name, play a crucial role in representing our identity and self. However, the precise cognitive and neural mechanisms through which self representations are created, kept and updated are largely unclear. 
+In this project, we explore these questions using a combination of behavioural and neuroscientific techniques.
 
 Representative publications:
 [Alejandro J. Estudillo, Markus Bindemann (2017). A multi-sensory system for self-face learning. In M. Bindemann & A. M Megreya. Face processing: Systems, disorders and cultural differences.](https://alejandro-estudillo.netlify.app/publication/estudillo-bindemann-2017a/)

@@ -13,7 +13,7 @@ image:
 summary: How do we process numbers and solve different mathematical operations?
 tags:
 - Mathematical cognition
-title: Mathematical cognition
+title: Mathematical Cognition
 url_code: ""
 url_pdf: ""
 url_slides: ""
