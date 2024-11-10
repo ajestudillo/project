@@ -10,18 +10,18 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 #slides: example
-summary: -------
+summary: The Effect of Brain Stimulation on Cognition and Neuropsychological Disorders 
 tags:
 - Neuromodulation
 - Face Processing
-title: Neuromodulation and Face Processing
+title: Brain Stimulation and Cognition
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-One's own face serves as a visual signpost of identity. However, our face is not static; it changes due to grooming activities and aging. In this project, we explore how our cognitive system uses multisensory signals (i.e., visual, kinesthetic, etc.) to accommodate these changes and maintain the sense of self over time.
+In our lab, we utilize brain stimulation techniques, such as Transcranial Electrical Stimulation (TES) and Transcranial Magnetic Stimulation (TMS), to study the direct relationship between the brain and cognition. Additionally, we employ these techniques to enhance various cognitive processes in both neurotypical and neurodivergent populations.
 
 Representative publications:
 
