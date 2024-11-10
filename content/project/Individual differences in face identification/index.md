@@ -13,6 +13,7 @@ image:
 summary: What factors underlie individual differences in face identification?
 tags:
 - Face Processing
+- Individual Differences 
 title: Individual Differences in Face Identification
 url_code: ""
 url_pdf: ""
