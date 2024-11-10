@@ -10,7 +10,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 #slides: example
-summary: The Effect of Brain Stimulation on Cognition and Neuropsychological Disorders 
+summary: Understanding normal and impaired cognition through brain stimulation  
 tags:
 - Neuromodulation
 - Face Processing
