@@ -10,11 +10,11 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 #slides: example
-summary: Understanding normal and impaired cognition through brain stimulation.  
+summary: what are the effects of brain injure or abnormal  development on cognition?   
 tags:
 - Neuromodulation
 - Face Processing
-title: Brain Stimulation and Cognition
+title: Cognitive and Developmental Neuropsychology
 url_code: ""
 url_pdf: ""
 url_slides: ""
