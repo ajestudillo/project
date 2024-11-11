@@ -14,7 +14,7 @@ summary: Understanding psychological factors affecting face identification in fo
 tags:
 - Forensic face identification
 - Face Processing
-title: Forensic Face Ddentification 
+title: Forensic Face Identification 
 url_code: ""
 url_pdf: ""
 url_slides: ""
