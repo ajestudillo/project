@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Research Projects
-subtitle: My research experience encompasses cognitive neuropsychology, with a particular focus on numbers, objects, and faces. In addition to classical behavioral paradigms, I have also utilized various neuropsychological techniques, such as EEG-ERP, eye-tracking, and brain stimulation. My studies extend beyond neurotypical populations and include research involving individuals with neurodevelopmental disorders and brain damage disorders.  #Summary of current Research Projects
+subtitle: My research interests encompass cognitive neuropsychology, involving both neurotypical populations and individuals with neurodevelopmental disorders or brain injuries. I employ classical behavioral paradigms alongside techniques such as EEG-ERP, eye-tracking, and brain stimulation. 
 content:
   # Page type to display. E.g. project.
   page_type: project
