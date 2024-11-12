@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 title: Academic Career 
-subtitle: summary of my academic career
+subtitle: Summary of my academic career
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
