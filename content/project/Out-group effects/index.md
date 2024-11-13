@@ -10,7 +10,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 #slides: example
-summary: How do we process faces from other-group members, such as other-race or other-age faces?   
+summary: How do we process faces from out-group members, such as those of different races or ages?
 tags:
 - Neuromodulation
 - Face Processing
@@ -21,7 +21,7 @@ url_slides: ""
 url_video: ""
 ---
 
-One of the most replicated effects in psychological research is the Other-Race effect. This effect shows that people are better identifying faces from their own race compared to other race faces. In our lab we investigate the cognitive and neural correlates of this out-group effect and how this effect affect interaction with others.  
+One of the most replicated findings in psychological research is the Other-Race Effect, which demonstrates that individuals are better at identifying faces from their own race compared to faces from other races. In our lab, we investigate the cognitive and neural mechanisms underlying this effect and examine how it influences interactions with others.  
 
 Representative publications:
 

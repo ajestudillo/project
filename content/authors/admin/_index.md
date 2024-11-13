@@ -71,6 +71,6 @@ I received my BSc Psychology (Hons) degree from the University of Málaga (Spain
 
 My research focuses on understanding how our visual system provide us with information about the world that we can use to recognize and interact with objects, environments and people. I am interested in visual perception from the most basic level (e.g. how we discriminate between different shapes) to the most complex (e.g., face and object recognition). I am also interested in the cognitive mechanisms used to solve different mathematical operations (e.g., additions and subtractions).
 
-To provide this understanding, I use techniques, such as eye-tracking, EEG-ERP, brain stimulation, and classical behavioral (e.g., old/new recognition memory paradigm) and psychophysical paradigms. My research involves both  neurotypical populations and individuals with neurodevelopmental disorders or brain injuries. 
+To provide this understanding, I use different techniques, such as eye-tracking, EEG-ERP, brain stimulation, as well as behavioral and psychophysical paradigms. My research involves both  neurotypical populations and individuals with neurodevelopmental disorders or brain injuries. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_ajestudillo.pdf" "newtab" >}}CV{{< /staticref >}}.
