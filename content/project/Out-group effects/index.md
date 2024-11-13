@@ -2,7 +2,7 @@
 date: ""
 external_link: ""
 image:
-  caption: "Image from Estudillo et al., 2023; B&C"
+  caption: ""
   focal_point: Smart
 #links:
 #- icon: twitter
@@ -10,24 +10,24 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 #slides: example
-summary: what are the effects of brain injure or abnormal  development on cognition?   
+summary: How do we process faces from other-group members, such as other-race or other-age faces?   
 tags:
 - Neuromodulation
 - Face Processing
-title: Cognitive and Developmental Neuropsychology
+title: Out-group biases in social cognition
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-In our lab, we utilize brain stimulation techniques, such as Transcranial Electrical Stimulation (TES) and Transcranial Magnetic Stimulation (TMS), to study the direct relationship between the brain and cognition. Additionally, we employ these techniques to enhance various cognitive processes in both neurotypical and neurodivergent populations.
+One of the most replicated effects in psychological research is the Other-Race effect. This effect shows that people are better identifying faces from their own race compared to other race faces. In our lab we investigate the cognitive and neural correlates of this out-group effect and how this effect affect interaction with others.  
 
 Representative publications:
 
-[Alejandro J. Estudillo, Ye ji Lee, Juan A. Alvarez-Montesinos, Javier Garcia-orza (2023). High-frequency transcranial random noise stimulation enhances unfamiliar face matching of high resolution and pixelated faces. Brain and Cognition, 165.](https://alejandro-estudillo.netlify.app/publication/estudillo-lee-et-al.-2023/)
+[Hoo Keat Wong, Alejandro J. Estudillo, Ian D. Stephen, David R. T. Keeble (2021). The other‑race effect and holistic processing across racial groups. Scientific Reports, 11(8507).](https://alejandro-estudillo.netlify.app/publication/wong-et-al.-2021/)
 
-[Siew Kei Kho, David R Keeble, Hoo Keat Wong, Alejandro J. Estudillo (2023). Investigating the role of the fusiform face area and occipital face area using multifocal transcranial direct current stimulation. Neuropsychologia, 189.](https://alejandro-estudillo.netlify.app/publication/kho-et-al.-2023b/)
+[Alejandro J. Estudillo, Jasmine Kar Wye Lee, Neil Mennie, Edwin Burns (2020). No evidence of other‐race effect for Chinese faces in Malaysian non‐Chinese population. Applied Cognitive psychology, 34(1).](https://alejandro-estudillo.netlify.app/publication/estudillo-et-al.-2020/)
 
-[Siew Kei Kho, David R Keeble, Hoo Keat Wong, Alejandro J. Estudillo (2023). Null effect of anodal and cathodal transcranial direct current stimulation (tDCS) on own- and other-race face recognition.](https://alejandro-estudillo.netlify.app/publication/kho-et-al.-2023/)
+[Alejandro J. Estudillo, Markus Bindemann (2016). Multisensory stimulation with other-race faces and the reduction of racial prejudice. Consciousness and Cognition, 42.](https://alejandro-estudillo.netlify.app/publication/estudillo-bindemann-2016/)
 

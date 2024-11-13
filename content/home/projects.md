@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Research Projects
-subtitle: My research interests encompass cognitive neuropsychology, involving both neurotypical populations and individuals with neurodevelopmental disorders or brain injuries. I employ classical behavioral paradigms alongside techniques such as EEG-ERP, eye-tracking, and brain stimulation. 
+subtitle: Summary of current research projects 
 content:
   # Page type to display. E.g. project.
   page_type: project
