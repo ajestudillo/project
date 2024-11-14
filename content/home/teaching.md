@@ -26,7 +26,7 @@ item:
     certificate_url: 
     date_start: '2023-09-01'
     date_end: ''
-    description: 'I created this core module as part of our MSc Psychology (Conversion) program. The module aims to provide students with a broad overview of planning, designing, and conducting experiments and research studies, as well as analyzing and effectively communicating experimental and research study findings.'
+    description: 'I designed this core module as part of our MSc Psychology (Conversion) program. The module aims to provide students with a broad overview of planning, designing, and conducting experiments and research studies, as well as analyzing and effectively communicating experimental and research study findings.'
   - organization: Bournemouth University
     organization_url: 
     title: Advanced Research Methods (Lecturer)
@@ -34,7 +34,7 @@ item:
     certificate_url: 
     date_start: '2023-09-01'
     date_end: ''
-    description: 'In this masters module, I conduct a 2-hour session on the applications of MRI in clinical, health, and forensic settings'
+    description: 'In this master’s module, I teach the applications of brain imaging techniques such as MRI and fMRI in clinical, health, and forensic settings.'
   - organization: Bournemouth University
     organization_url: 
     title: 'Critically Evaluating Psychology: Past and Present (Lecturer)'
@@ -42,7 +42,7 @@ item:
     certificate_url: 
     date_start: '2023-09-01'
     date_end: ''
-    description: 'In this undergraduate module, I conduct a 2-hour session on the cognitive revolution and how and why the cognitive paradigm integrates interdisciplinary perspectives from psychology, neuroscience, linguistics, artificial intelligence, and philosophy to explain mental processes and behavior.'  
+    description: 'In this undergraduate module, I teach about the cognitive revolution and how and why the cognitive paradigm integrates interdisciplinary perspectives from psychology, neuroscience, linguistics, artificial intelligence, and philosophy to explain mental processes and behavior.'  
   - organization: Bournemouth University
     organization_url: 
     title: Experimental Methods and Statistical Analysis (Module Convenor)
@@ -58,7 +58,7 @@ item:
     certificate_url: 
     date_start: '2020-09-01'
     date_end: '2022-09-01'
-    description: 'In this module, I conducted two 2-hour lectures on the assessment of face recognition skills in neurotypical and neurodiverse populations'
+    description: 'In this module, I led several sessions on assessing face recognition skills in both neurotypical and neurodiverse populations, as well as the development of these skills.'
   - organization: University of Nottingham Malaysia 
     organization_url: 
     title: Cognitive Neuropsychology (Module Convenor)
