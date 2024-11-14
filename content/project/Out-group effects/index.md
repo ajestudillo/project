@@ -21,7 +21,7 @@ url_slides: ""
 url_video: ""
 ---
 
-One of the most replicated findings in psychological research is the Other-Race Effect, which demonstrates that individuals are better at identifying faces from their own race compared to faces from other races. In our lab, we investigate the cognitive and neural mechanisms underlying this effect and examine how it influences interactions with others.  
+One of the most replicated findings in psychological research is the Other-Race Effect, which demonstrates that individuals are better at identifying faces from their own race compared to faces from other races. In our lab, we investigate the cognitive and neural mechanisms underlying this effect and examine how it influences interactions with others.  tttttttttt
 
 Representative publications:
 
