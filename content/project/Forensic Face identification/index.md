@@ -10,7 +10,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 #slides: example
-summary: Understanding psychological factors affecting face identification in forensic settings.  
+summary: Psychological factors affecting face identification in forensic settings.  
 tags:
 - Forensic face identification
 - Face Processing
