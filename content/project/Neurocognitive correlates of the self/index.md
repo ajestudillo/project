@@ -25,6 +25,7 @@ The question of what constitutes the self has captivated Eastern and Western phi
 In this project, we explore these questions using a combination of behavioural and neuroscientific techniques.
 
 Representative publications:
+
 [Alejandro J. Estudillo, Markus Bindemann (2017). A multi-sensory system for self-face learning. In M. Bindemann & A. M Megreya. Face processing: Systems, disorders and cultural differences.](https://alejandro-estudillo.netlify.app/publication/estudillo-bindemann-2017a/)
 
 [Alejandro J. Estudillo, Juergen Kaufmann, Markus Bindemann, Stefan R. Schweinberger (2018). Multisensory stimulation modulates perceptual and post perceptual face representations. Evidence from event-related potentials. European Journal of Neuroscience, 48(5).](https://alejandro-estudillo.netlify.app/publication/estudillo-et-al.-2018/)
