@@ -24,7 +24,7 @@ item:
     title: Brain & Cognition (Module Convenor)
     url: ''
     certificate_url: 
-    date_start: '2023-09-01'
+    date_start: '2025-09-01'
     date_end: ''
     description: 'I designed this Master’s module to provide students with a broad overview of current research and developments in cognitive neuroscience. The module not only covers the philosophical and theoretical foundations of cognitive neuroscience, but also introduces the design and analysis of eye-tracking and EEG studies to investigate cognition'
   - organization: Bournemouth University
