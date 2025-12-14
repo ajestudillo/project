@@ -10,7 +10,8 @@ headless: true
 weight: 30
 
 title: Research Projects
-subtitle: Summary of current research projects 
+subtitle: Summary of my current research projects
+
 content:
   # Page type to display. E.g. project.
   page_type: project
