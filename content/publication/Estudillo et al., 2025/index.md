@@ -28,7 +28,7 @@ tags:
 title: "The Effect of Face Masks on the Recognition of Own- and Other-Race Faces"
 # url_code: ""
 # url_dataset: ""
-url_pdf: https://www.researchgate.net/publication/388448123_Exploring_the_Role_of_Foveal_and_Extrafoveal_Processing_in_Emotion_Recognition_A_Gaze-Contingent_Study
+url_pdf: https://www.researchgate.net/publication/391196412_The_Effect_of_Face_Masks_on_the_Recognition_of_Own-_and_Other-Race_Faces
 # url_poster: ""
 # url_project: ""
 # url_slides: ""
